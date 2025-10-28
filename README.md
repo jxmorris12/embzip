@@ -113,3 +113,16 @@ To run tests:
 ```bash
 pytest
 ``` 
+
+
+
+### Citation
+
+```
+@misc{morris2025embzip,
+  author = {Morris, John X},
+  title = {embzip: A Python package for efficiently compressing and decompressing embeddings using Product Quantization},
+  url = {https://github.com/jxmorris12/embzip},
+  year = {2025}
+}
+```
